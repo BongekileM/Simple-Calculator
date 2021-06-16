@@ -21,4 +21,4 @@ console.log(basicCalculator("add",50,10));
 console.log(basicCalculator("substract",50,10));
 console.log(basicCalculator("divide",50,10));
 console.log(basicCalculator("multiply",50,10));
-console.log(basicCalculator("testError",7,8));
+console.log(basicCalculator("testError",8,8));
