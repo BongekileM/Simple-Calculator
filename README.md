@@ -16,6 +16,10 @@ This simple calculator performs basic arithmatic calculations. It was created at
 * Multiply
 * Divide 
 
+# Authors 
+* [Memory Tshipapu](https://github.com/MemoryTshipapu)
+* [Bongekile Mncube](https://github.com/BongekileM)
+
 # Licence
 
 Copyright (c) 2017 Embedded Artistry LLC
