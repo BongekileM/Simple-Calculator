@@ -14,6 +14,7 @@ function basicCalculator(operation,num1,num2) {
             break;
         default:
             console.log("unknown operation or invalid number ");
+            break;
     }
     
 }
